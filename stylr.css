@@ -1,0 +1,32 @@
+.style-yellow {
+  color: blueviolet;
+  font-size: 25px;
+  font-weight: bold;
+}
+.style-black {
+  color: aquamarine;
+  font-size: 30px;
+}
+
+.style-orange {
+  margin: 20px;
+  width: 300px;
+  background-color: brown;
+}
+
+.aaaa {
+  font-size: 30px;
+  color: yellowgreen;
+}
+
+.bbbb {
+  font-size: 40px;
+  font-style: italic;
+  color: orangered;
+}
+.dev{
+    width: 80%;}
+
+    .backround1{
+        background-color: aqua;
+    }
